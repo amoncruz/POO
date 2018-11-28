@@ -5,9 +5,9 @@ img {
   width: 20px;
 }
 body {
-  background-color: #c4c4c4;
+  background-color: black;
   margin: 0px;
-  font-family: "Noto Sans TC";
+  font-family: "";
 }
 
 .espacamento {
@@ -34,4 +34,15 @@ body {
 }
 .navbar .container {
   box-shadow: none;
+}
+.media {
+  -webkit-box-shadow: 1px 1px 9px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 1px 1px 9px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 9px 0px rgba(0, 0, 0, 0.75);
+}
+
+@media (max-width: 700px) {
+  .navbar {
+    background: black;
+  }
 }

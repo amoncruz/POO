@@ -16,7 +16,7 @@
   
 <nav class="navbar navbar-expand-sm navbar-light bg-white">
   <div class="container">
-  <a class="navbar-brand" href="#"><img  src="lady.jpg" style="height:75px;width:200px;"></a>
+  <a class="navbar-brand" href="#"><img  src="lady.jpg" style="height:75px;width:350px;"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -36,7 +36,7 @@
     </ul>
    <div class="d-none  d-md-block">
     <form class="form-group row my-2 my-lg-0 justify-content-start ml-2">
-  <div class=" row col-md-6  col-lg-8 p-0">
+  <div class=" row col-md-6  col-lg-12 p-0">
       <input class="form-control col-lg-10" type="search" placeholder="O que vc esta procurando" aria-label="Search">
       <button class="btn btn-sm " type="submit" style="background-color:#FF7C00;height:38px;"><img src="icons/lupa2.svg"></button>
       </div>
@@ -55,9 +55,10 @@
 <div class="container">
 <section id="significados">
 
-<div class="espacamento">
+<div class="espacamento row ml-2 mr-2">
 
-<a href="#"class=""><img src="icons/home.svg" alt="home"><span class="">&nbspINÍCIO</span></a>
+<a href="#"class=""><img src="icons/home2.svg" alt="home"></a>
+<div class="mt-1"><a href="#">&nbspINÍCIO</a></div>
 </div>
 <div class="container2">
 <h4>SIGNIFICADOS</h4>
@@ -106,9 +107,9 @@ Culpa tempor nulla mollit nostrud mollit amet sit culpa labore. Dolor nostrud fu
 <h4>BLOG</h4>
 <hr>
 
-<div class="media p-1"  style="-webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
--moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);">
+<div class="media p-0"  style="-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);">
   <img class="mr-3 d-none d-md-block" src="lady.jpg"  style="height:130px;width:130px;" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Titulo</h5>
@@ -116,9 +117,9 @@ box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);">
    <br><a href="#" class="text-dark ml-3 "><img src="icons/share.svg">Compartilhar</a>
   </div>
 </div>
-<div class="media mt-3"  style="-webkit-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
--moz-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);
-box-shadow: 1px 1px 10px 1px rgba(0,0,0,0.75);">
+<div class="media mt-3"  style="-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);">
   <img class="mr-3 d-none d-md-block" src="lady.jpg"  style="height:130px;width:130px;" alt="Generic placeholder image">
   <div class="media-body">
     <h5 class="mt-0">Titulo</h5>
