@@ -8,7 +8,7 @@
   
     <link rel="stylesheet" href="style.css">
     <link href='https://fonts.googleapis.com/css?family=Noto Sans TC' rel='stylesheet'>
-    <title>Desvendando Direito</title>
+    <title>Desvendando Direito 2</title>
 </head>
 <body>
 <header>
